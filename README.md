@@ -1,7 +1,6 @@
 # <p align=center>Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images</p>
 
-**Authors:**
-Zhengzheng Tu, Le Gu, Xixi Wang, Bo Jiang, and Jin Tang.
+<p align=center>Zhengzheng Tu, Le Gu, Xixi Wang, Bo Jiang, and Jin Tang</p>
 
 ## Introduction
 This repository is the official implementation for "Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images".
