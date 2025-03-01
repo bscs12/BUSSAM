@@ -41,11 +41,11 @@ conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11
 pip install -r requirements.txt
 ```
 
-### Prepare Checkpoints
+### Prepare Checkpoint
 You can download the pretrained ```vit_b``` checkpoint of SAM from [https://github.com/facebookresearch/segment-anything] or [https://pan.baidu.com/s/1winNpGFv4z-gBqsfK5UoaA?pwd=cheh] [Password: ```cheh```].
 
-### Prepare Datasets
-1. Download datasets
+### Prepare Dataset
+1. Download dataset
 
 You can download the AMUBUS dataset and BUSI dataset from [https://pan.baidu.com/s/1winNpGFv4z-gBqsfK5UoaA?pwd=cheh] [Password: ```cheh```].
 
