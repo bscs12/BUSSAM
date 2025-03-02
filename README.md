@@ -90,4 +90,4 @@ python train.py
 python test.py
 ```
 ## Cite
-If you find this work useful for your, please consider citing our paper. Thank you!
+If you find this work useful for you, please consider citing our paper. Thank you!
